@@ -11,6 +11,9 @@ A Python script to add a ticking timestamp to a video, calculated by the media c
 python add_timestamp_to_video.py <video_file_path>
 ```
 
+## Sample output
+<img width="1278" alt="image" src="https://github.com/1eft0ver/AutoTimestamper/assets/18338925/c19501db-d67d-4105-a9ff-3943668a1c70">
+
 ## Why?
 
 I used to use GoPro Hero 8 Black as the dash cam while riding my scooter. </br>
